@@ -476,7 +476,7 @@ function Hero() {
               Explore Systems <ArrowRight size={16} />
             </MagneticButton>
 <MagneticButton
-  href="/resume/Suha_Saleem_Resume.pdf"
+  href="C:\Users\suhas\OneDrive\Desktop\suha-portfolio\public\resume\Suha_Saleem-Resume.pdf"
   download
 >
   Download Resume <Download size={16} />
