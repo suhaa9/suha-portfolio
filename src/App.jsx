@@ -1205,7 +1205,7 @@ const TIMELINE = [
   {
     role: "Core Member",
     org: "Google Developer Student Club",
-    period: "2023 — Present",
+    period: "2024 - 2025",
     icon: Users,
     desc: "Organized technical sessions and led peer-learning initiatives within the campus chapter.",
   },
