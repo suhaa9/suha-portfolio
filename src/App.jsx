@@ -475,10 +475,12 @@ function Hero() {
             >
               Explore Systems <ArrowRight size={16} />
             </MagneticButton>
-            <MagneticButton href="#">
-              Download Resume <Download size={16} />
-            </MagneticButton>
-          </div>
+<MagneticButton
+  href="/resume/Suha_Saleem_Resume.pdf"
+  download
+>
+  Download Resume <Download size={16} />
+</MagneticButton>          </div>
         </div>
 
         {/* Mission dashboard panel */}
