@@ -474,13 +474,7 @@ function Hero() {
               onClick={() => document.getElementById("systems")?.scrollIntoView({ behavior: "smooth" })}
             >
               Explore Systems <ArrowRight size={16} />
-            </MagneticButton>
-<MagneticButton
-  href="C:\Users\suhas\OneDrive\Desktop\suha-portfolio\public\resume\Suha_Saleem-Resume.pdf"
-  download
->
-  Download Resume <Download size={16} />
-</MagneticButton>          </div>
+          </MagneticButton>          </div>
         </div>
 
         {/* Mission dashboard panel */}
