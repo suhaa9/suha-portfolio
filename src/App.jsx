@@ -1570,8 +1570,8 @@ function CapabilityNetwork() {
    ========================================================================= */
 
 const CHANNELS = [
-  { label: "LinkedIn", icon: Linkedin, href: "#", value: "linkedin.com/in/suha-saleem-689035217/" },
-  { label: "GitHub", icon: Github, href: "#", value: "github.com/suhaa9" },
+  { label: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/suha-saleem-689035217/", value: "/suha-saleem-689035217/" },
+  { label: "GitHub", icon: Github, href: "https://github.com/suhaa9", value: "github.com/suhaa9" },
   { label: "Email", icon: Mail, href: "mailto:suhasaleem13@gmail.com", value: "suhasaleem13@gmail.com" },
 ];
 
